@@ -18,7 +18,7 @@ public class FortuneController {
 	        LOGGER.warn("doStuff warn - {}");
 	        LOGGER.error("doStuff error - {}");
 		*/
-		System.out.println("Greetings print test!");
+		System.out.println("Greetings print test change!");
 		return "have a good day!";
 	}
 	
